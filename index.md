@@ -22,7 +22,7 @@ specialising in gravitation.
 
 My scientific interests have included the thermodynamic properties of black holes,
 the relationship between gravitational theories and quantum field theories,
-and simulation of the lensing of light by strong gravitational fields.
+and trajectory computation in strong gravitational fields.
 
 ## Site Index
 

@@ -1,4 +1,4 @@
-# Andrew Scoins - Curiculum Vitae
+# Curiculum Vitae
 
 ## Professional Experience
 

@@ -17,7 +17,7 @@ engineer at [GMV](https://www.gmv.com/en). My work covers both full-stack applic
 and control systems design and optimisation.
 
 My background is in high-energy theoretical physics,
-having attained a PhD from the Durham University, UK,
+having attained a PhD from [Durham University, UK](https://www.durham.ac.uk/departments/academic/mathematical-sciences/),
 specialising in gravitation.
 
 My scientific interests have included the thermodynamic properties of black holes,

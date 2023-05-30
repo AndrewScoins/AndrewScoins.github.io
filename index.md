@@ -3,5 +3,5 @@
 * [CV][cv]
 * [Contact][contact]
 
-[cv]: https://andrewdscoins.github.io/CV.html
-[contact]: https://andrewdscoins.github.io/Contact.html
+[cv]: https://andrewscoins.github.io/CV.html
+[contact]: https://andrewscoins.github.io/Contact.html

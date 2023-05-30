@@ -2,7 +2,7 @@
 
 ## Professional Experience
 
-### *2022 - Present* GMV
+### *2022-Present* GMV
 
 #### Navigation Engineer
 

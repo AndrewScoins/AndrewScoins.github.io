@@ -11,7 +11,7 @@ if I ever write anything non-proprietary.
 ## About Me
 
 I'm a scientific software developer and navigational systems algorithm
-engineer at GMV. My work covers both full-stack application development
+engineer at [GMV](https://www.gmv.com/en). My work covers both full-stack application development
 and control systems design and optimisation.
 
 My background is in high-energy theoretical physics,

@@ -1,9 +1,9 @@
-# 1. Welcome!
+# Welcome
 
 You've stumbled across the website of Andrew Scoins.
 
 This site is intended as a repository for my CV and contact information.
-I may use it as a dumping ground for comments and short essays 
+I may use it as a dumping ground for comments and short essays
 on topics in software development, physics, and mathematics in the future.
 I may even use it as a launchpad to access software repositories,
 if I ever write anything non-proprietary.

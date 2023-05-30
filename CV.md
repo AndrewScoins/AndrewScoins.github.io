@@ -1,4 +1,4 @@
-# 2. Curiculum Vitae
+# Curiculum Vitae
 
 ## Professional Experience
 
@@ -84,4 +84,3 @@
 - **R. Gregory, Z. Lim-Liang, A. Scoins.** "*Thermodynamics of Many Black Holes*"; Frontiers in Physics (2021).
 - **W. Ahmed et al.** "*Conical Holographic Heat Engines*"; Classical and Quantum Gravity (2019).
 - **R. Gregory, A. Scoins.** "*Accelerating Black Hole Chemistry*"; Physics Letters B (2019).
-

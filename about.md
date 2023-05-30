@@ -1,4 +1,4 @@
-# 3. About Me
+# About Me
 
 I'm a scientific software developer and navigational systems algorithm
 engineer at GMV. My work covers both full-stack application development

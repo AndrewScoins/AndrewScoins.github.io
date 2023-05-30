@@ -1,4 +1,4 @@
-# 4. Contact
+# Contact
 
 For human resources-related inquiries (i.e. if you work in recruitment), please contact me via [LinkedIn](https://www.linkedin.com/in/andrewscoins/).
 

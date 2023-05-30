@@ -1,6 +1,6 @@
-![headshot](/resources/space_cover_2.jpg)
-
 # Curiculum Vitae
+
+![headshot](/resources/space_cover_2.jpg)
 
 ## Professional Experience
 

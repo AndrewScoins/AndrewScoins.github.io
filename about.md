@@ -1,6 +1,6 @@
-![headshot](/resources/headshot.jpg)
-
 # About Me
+
+![headshot](/resources/headshot.jpg)
 
 I'm a scientific software developer and navigational systems algorithm
 engineer at [GMV](https://www.gmv.com/en). My work covers both full-stack application development

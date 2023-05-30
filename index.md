@@ -1,4 +1,4 @@
-# Welcome!
+# 1. Welcome!
 
 You've stumbled across the website of Andrew Scoins.
 
@@ -25,7 +25,9 @@ and simulation of the lensing of light by strong gravitational fields.
 ## Site Index
 
 * [CV][cv]
+* [About Me][about]
 * [Contact][contact]
 
-[cv]: https://andrewscoins.github.io/CV.html
-[contact]: https://andrewscoins.github.io/Contact.html
+[cv]: https://andrewscoins.github.io/cv.html
+[about]: https://andrewscoins.github.io/about.html
+[contact]: https://andrewscoins.github.io/contact.html

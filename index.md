@@ -1,3 +1,5 @@
+![headshot](/resources/space_cover_2.jpg)
+
 # Welcome
 
 You've stumbled across the website of Andrew Scoins.

@@ -2,7 +2,7 @@
 layout: about
 title: CV
 has_children: false
-parent: About
+parent: About the Author
 nav_order: 1
 ---
 # Curiculum Vitae

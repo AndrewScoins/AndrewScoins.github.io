@@ -2,7 +2,7 @@
 layout: about
 title: Contact
 has_children: false
-parent: About
+parent: About the Author
 nav_order: 2
 ---
 # Contact

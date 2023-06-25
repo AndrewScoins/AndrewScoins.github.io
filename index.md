@@ -1,3 +1,17 @@
+---
+title: Andrew Scoins
+sidebar: toc
+toc:
+  - title: About
+    subfolderitems:
+      - page: About
+        url: /about/cv.md
+      - page: CV
+        url: about/cv.md
+      - page: Contact
+        url: about/cv.md
+---
+
 # Welcome
 
 ![headshot](/resources/space_cover_2.jpg)

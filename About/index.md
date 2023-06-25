@@ -2,6 +2,7 @@
 layout: about
 title: About the Author
 has_children: true
+has_tox: false
 nav_order: 2
 ---
 # About Me

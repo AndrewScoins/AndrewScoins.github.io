@@ -1,3 +1,16 @@
 title: Andrew Scoins
+
 remote_theme: just-the-docs/just-the-docs
+color-scheme: light
+#logo:
+
 nav_sort: case_insensitive
+search_enabled: false
+
+aux_links:
+    "LinkedIn":
+        - "https://uk.linkedin.com/in/andrewscoins"
+aux_linkes_new_tab: true
+
+last_edit_timestamp: false
+last_edit_time_format: "%b %e %Y at %I:%M %p" # Use ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html

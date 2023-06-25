@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About the Author
 has_children: true
 nav_order: 2
 ---

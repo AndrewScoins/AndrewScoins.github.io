@@ -1,3 +1,5 @@
-<centre>
-  <img src="/resources/space_cover_2.jpg" alt="Jeff Williams, NASA, Earth with lens flare"> 
-</centre>
+{%- if site.header_image_source -%}
+  <centre>
+    <img src={{ site.header_image_source }} alt="Jeff Williams, NASA, Earth with lens flare"> 
+  </centre>
+{%- endif -%}

@@ -5,8 +5,6 @@ nav_order: 1
 ---
 # Welcome
 
-![headshot](/resources/space_cover_2.jpg)
-
 You've stumbled across the website of Andrew Scoins.
 
 This site is intended as a repository for my CV and contact information.

@@ -10,6 +10,8 @@ remote_theme: just-the-docs/just-the-docs
 color-scheme: asLight
 #logo:
 
+permalink: pretty
+
 search_enabled: false
 nav_sort: case_insensitive
 heading_anchors: true

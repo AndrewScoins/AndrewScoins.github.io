@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: About the Author
 has_children: true
 nav_order: 2

@@ -15,4 +15,4 @@ toc:
   - title: Essays
     subfolderitems:
       - page: Lorum Ipsum
-        url: lorum.md
+        url: /essays/lorum.md

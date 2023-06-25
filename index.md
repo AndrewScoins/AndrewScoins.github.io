@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: home
 title: Welcome
 nav_order: 1
 ---
@@ -28,13 +28,3 @@ specialising in gravitation.
 My scientific interests have included the thermodynamic properties of black holes,
 the relationship between gravitational theories and quantum field theories,
 and trajectory computation in strong gravitational fields.
-
-## Site Index
-
-* [CV][cv]
-* [About Me][about]
-* [Contact][contact]
-
-[cv]: https://andrewscoins.github.io/cv.html
-[about]: https://andrewscoins.github.io/about.html
-[contact]: https://andrewscoins.github.io/contact.html

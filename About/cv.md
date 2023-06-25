@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: CV
 has_children: false
 parent: About

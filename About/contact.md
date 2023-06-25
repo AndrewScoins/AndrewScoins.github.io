@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Contact
 has_children: false
 parent: About
 nav_order: 2

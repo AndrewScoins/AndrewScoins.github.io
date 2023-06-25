@@ -7,7 +7,7 @@ exclude:
   - .gitignore
 
 remote_theme: just-the-docs/just-the-docs
-color-scheme: asDark
+color-scheme: asLight
 #logo:
 
 search_enabled: false

@@ -1,1 +1,14 @@
 remote_theme: just-the-docs/just-the-docs
+title: Andrew Scoins
+sidebar: toc
+toc:
+  - page: Welcome
+    url: /
+  - title: About
+    subfolderitems:
+      - page: About Me
+        url: /about/about.md
+      - page: CV
+        url: /about/cv.md
+      - page: Contact
+        url: /about/contact.md

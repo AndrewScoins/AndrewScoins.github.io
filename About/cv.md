@@ -7,8 +7,6 @@ nav_order: 1
 ---
 # Curiculum Vitae
 
-![headshot](/resources/space_cover_2.jpg)
-
 ## Professional Experience
 
 ### *2022-Present* GMV

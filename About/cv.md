@@ -1,3 +1,10 @@
+---
+layout: default
+title: CV
+has_children: false
+parent: About
+nav_order: 1
+---
 # Curiculum Vitae
 
 ![headshot](/resources/space_cover_2.jpg)

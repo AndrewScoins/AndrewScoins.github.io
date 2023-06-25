@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+has_children: true
+nav_order: 2
+---
 # About Me
 
 ![headshot](/resources/headshot.jpg)

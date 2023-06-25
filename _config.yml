@@ -1,18 +1,3 @@
-remote_theme: just-the-docs/just-the-docs
 title: Andrew Scoins
-sidebar: toc
-toc:
-  - page: Welcome
-    url: /index.md
-  - title: About
-    subfolderitems:
-      - page: About Me
-        url: /about/about.md
-      - page: CV
-        url: /about/cv.md
-      - page: Contact
-        url: /about/contact.md
-  - title: Essays
-    subfolderitems:
-      - page: Lorum Ipsum
-        url: /essays/lorum.md
+remote_theme: just-the-docs/just-the-docs
+nav_sort: case_insensitive

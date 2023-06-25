@@ -1,3 +1,10 @@
+---
+layout: default
+title: CV
+has_children: false
+parent: About
+nav_order: 2
+---
 # Contact
 
 ![headshot](/resources/space_cover_2.jpg)

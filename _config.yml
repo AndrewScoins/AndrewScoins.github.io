@@ -34,5 +34,6 @@ last_edit_timestamp: false
 last_edit_time_format: "%b %e %Y at %I:%M %p" # Use ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 footer_content: "Copyright &copy; 2023 Andrew Scoins"
+nav_footer_content: "&copy; 2023 Andrew Scoins"
 
 header_image_source: "/resources/space_cover_2.jpg"

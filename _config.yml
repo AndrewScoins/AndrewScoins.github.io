@@ -3,7 +3,7 @@ title: Andrew Scoins
 sidebar: toc
 toc:
   - page: Welcome
-    url: /
+    url: /index.md
   - title: About
     subfolderitems:
       - page: About Me
@@ -12,3 +12,7 @@ toc:
         url: /about/cv.md
       - page: Contact
         url: /about/contact.md
+  - title: Essays
+    subfolderitems:
+      - page: Lorum Ipsum
+        url: lorum.md

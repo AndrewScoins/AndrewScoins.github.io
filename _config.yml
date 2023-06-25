@@ -1,16 +1,32 @@
 title: Andrew Scoins
+description: The personal website of Andrew Scoins
+
+exclude:
+  - README.md
+  - LICENCE.txt
+  - .gitignore
 
 remote_theme: just-the-docs/just-the-docs
 color-scheme: asDark
 #logo:
 
-nav_sort: case_insensitive
 search_enabled: false
+nav_sort: case_insensitive
+heading_anchors: true
+enable_copy_code_button: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
 
 aux_links:
     "LinkedIn":
         - "https://uk.linkedin.com/in/andrewscoins"
 aux_linkes_new_tab: true
+
+#nav_external_links:
+#  - title: TODO
+#    url: SOMEURL
 
 last_edit_timestamp: false
 last_edit_time_format: "%b %e %Y at %I:%M %p" # Use ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html

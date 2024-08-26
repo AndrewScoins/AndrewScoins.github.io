@@ -9,14 +9,9 @@ nav_order: 3
 
 ![headshot](/resources/headshot.jpg)
 
-I'm a scientific software developer and navigational systems algorithm
-engineer at [GMV](https://www.gmv.com/en). My work covers both full-stack application development
-and control systems design and optimisation.
+I'm a software developer with the graphics team at [Datapath](https://www.datapath.co.uk/).
 
-My background is in theoretical high-energy physics,
-having attained a PhD from [Durham University, UK](https://www.durham.ac.uk/departments/academic/mathematical-sciences/),
-specialising in gravitation.
+Throughout my career, I've had the great privilege to work in a range of exciting fields from scientific simulation and control systems design, to full-stack application development.
 
-My scientific interests have included the thermodynamic properties of black holes,
-the relationship between gravitational theories and quantum field theories,
-and trajectory computation in strong gravitational fields.
+I have an academic background is in high-energy theoretical physics, having attained a PhD from [Durham University, UK](https://www.durham.ac.uk/departments/academic/mathematical-sciences/).
+My scientific interests have included the thermodynamic properties of black holes, the relationship between gravitational theories and quantum field theories, and trajectory computation in strong gravitational fields.
